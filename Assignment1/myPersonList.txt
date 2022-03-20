@@ -1,0 +1,29 @@
+[
+{
+"name" : "Julia", 
+"email" : "jylee2033@gmail.com", 
+"student ID" : "301414539", 
+"grade" : "A", 
+}, 
+{
+"name" : "Jooyoung", 
+"email" : "jylee233@naver.com", 
+"student ID" : "301414539", 
+"grade" : "B", 
+}, 
+{
+"name" : "Saba", 
+"email" : "saba@sfu.ca", 
+"employee ID" : "9413", 
+}, 
+{
+"name" : "Mohammad", 
+"email" : "m_ganji@sfu.ca", 
+"employee ID" : "9808", 
+}, 
+{
+"name" : "Sadjad", 
+"email" : "sadjad_tavakoli@sfu.ca", 
+"employee ID" : "9808", 
+}
+]
