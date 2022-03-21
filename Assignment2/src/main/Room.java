@@ -38,10 +38,10 @@ class Room extends MapSite {
         return "Room #" + new Integer(_roomNr).toString();
     }
 
-    private int _roomNr;
-    private static int _roomCnt = 1;
-    private MapSite _northSide;
-    private MapSite _southSide;
-    private MapSite _eastSide;
-    private MapSite _westSide;
+    protected int _roomNr;
+    protected static int _roomCnt = 1;
+    protected MapSite _northSide;
+    protected MapSite _southSide;
+    protected MapSite _eastSide;
+    protected MapSite _westSide;
 }

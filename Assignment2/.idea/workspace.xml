@@ -5,38 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e8d0a0b-70e1-46fd-b8d1-7a3322f0d81b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Direction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Door.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/DoorNeedingSpell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/EnchantedMazeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/EnchantedMazeGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/EnchantedRoom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/MapSite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Maze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/MazeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/MazeGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Room.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Spell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Wall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Door.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maze.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MazeFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MazeGame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Room.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wall.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Door.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Door.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/DoorNeedingSpell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/DoorNeedingSpell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/EnchantedMazeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/EnchantedMazeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/EnchantedRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/EnchantedRoom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Room.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Spell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Spell.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
