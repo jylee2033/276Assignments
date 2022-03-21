@@ -6,12 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4e8d0a0b-70e1-46fd-b8d1-7a3322f0d81b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Door.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Door.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/DoorNeedingSpell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/DoorNeedingSpell.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/EnchantedMazeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/EnchantedMazeFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/EnchantedRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/EnchantedRoom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Room.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Spell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Spell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
