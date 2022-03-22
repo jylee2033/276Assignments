@@ -6,6 +6,15 @@ class Room extends MapSite {
         System.out.println("creating Room #" + _roomNr);
     }
 
+    /*
+    Room createRoom() {
+        Room room = new Room();
+        _roomNr = _roomCnt++;
+        System.out.println("creating Room #" + _roomNr);
+        return room;
+    }
+     */
+
     void setSide(Direction d, MapSite site) {
         switch (d) {
             case North:
@@ -34,14 +43,15 @@ class Room extends MapSite {
         }
         return result;
     }
+
     public String toString() {
         return "Room #" + new Integer(_roomNr).toString();
     }
 
-    protected int _roomNr;
-    protected static int _roomCnt = 1;
-    protected MapSite _northSide;
-    protected MapSite _southSide;
-    protected MapSite _eastSide;
-    protected MapSite _westSide;
+    private int _roomNr;
+    private static int _roomCnt = 1;
+    private MapSite _northSide;
+    private MapSite _southSide;
+    private MapSite _eastSide;
+    private MapSite _westSide;
 }

@@ -6,8 +6,10 @@ public class Main {
         MazeGame game = new MazeGame();
         game.createMaze(factory);
 
+        System.out.println("==============================");
+
         EnchantedMazeFactory enchantedFactory = new EnchantedMazeFactory();
-        EnchantedMazeGame enchantedGame = new EnchantedMazeGame();
+        MazeGame enchantedGame = new EnchantedMazeGame();
         enchantedGame.createMaze(enchantedFactory);
     }
 }

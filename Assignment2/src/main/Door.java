@@ -12,8 +12,8 @@ class Door extends MapSite {
         return "Door #" + new Integer(_doorNr).toString();
     }
 
-    protected static int _doorCnt = 1;
-    protected int _doorNr;
-    protected Room _room1;
-    protected Room _room2;
+    private static int _doorCnt = 1;
+    private int _doorNr;
+    private Room _room1;
+    private Room _room2;
 }

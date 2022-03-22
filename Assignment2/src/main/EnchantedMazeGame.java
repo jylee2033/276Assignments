@@ -1,6 +1,8 @@
 package main;
 
 class EnchantedMazeGame extends MazeGame {
+    public EnchantedMaze makeMaze(){ return new EnchantedMaze(); }
+
     public Room makeRoom() {
         return new EnchantedRoom(castSpell());
     }

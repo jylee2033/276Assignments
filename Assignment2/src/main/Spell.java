@@ -4,7 +4,7 @@ public class Spell {
     private String spell = "ABCDEFG";
 
     Spell() {
-        System.out.println("ABCDEFG");
+        System.out.println("Spell : ABCDEFG");
     }
 
     public String getSpell() {

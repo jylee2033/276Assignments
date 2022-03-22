@@ -5,8 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e8d0a0b-70e1-46fd-b8d1-7a3322f0d81b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/EnchantedMaze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/EnchantedWall.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Door.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Door.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/DoorNeedingSpell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/DoorNeedingSpell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/EnchantedMazeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/EnchantedMazeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/EnchantedMazeGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/EnchantedMazeGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/EnchantedRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/EnchantedRoom.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Maze.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Maze.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/MazeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/MazeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/MazeGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/MazeGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Room.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Spell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Spell.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +47,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -80,5 +93,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
