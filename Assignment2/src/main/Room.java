@@ -6,15 +6,6 @@ class Room extends MapSite {
         System.out.println("creating Room #" + _roomNr);
     }
 
-    /*
-    Room createRoom() {
-        Room room = new Room();
-        _roomNr = _roomCnt++;
-        System.out.println("creating Room #" + _roomNr);
-        return room;
-    }
-     */
-
     void setSide(Direction d, MapSite site) {
         switch (d) {
             case North:

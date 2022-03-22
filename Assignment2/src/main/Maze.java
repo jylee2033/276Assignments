@@ -2,13 +2,7 @@ package main;
 import java.util.*;
 
 class Maze {
-    Maze() { /* System.out.println("creating a Maze"); */ }
-
-    Maze createMaze() {
-        Maze maze = new Maze();
-        System.out.println("creating a Maze");
-        return maze;
-    }
+    Maze() { System.out.println("creating a Maze"); }
 
     void addRoom(Room r) {
         if (!_rooms.contains(r)) {

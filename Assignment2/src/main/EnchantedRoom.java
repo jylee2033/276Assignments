@@ -13,8 +13,4 @@ class EnchantedRoom extends Room {
 
     private int _roomNr;
     private static int _roomCnt = 1;
-    private MapSite _northSide;
-    private MapSite _southSide;
-    private MapSite _eastSide;
-    private MapSite _westSide;
 }

@@ -1,8 +1,8 @@
 package main;
 
 public class EnchantedMazeFactory extends MazeFactory {
-    public EnchantedMaze makeMaze(){ return new EnchantedMaze(); }
-    public EnchantedRoom makeRoom(){ return new EnchantedRoom(new Spell()); }
-    public EnchantedWall makeWall(){ return new EnchantedWall(); }
-    public DoorNeedingSpell makeDoor(Room r1, Room r2){ return new DoorNeedingSpell(r1, r2); }
+    public Room makeRoom(){ return new EnchantedRoom(spell); }
+    public Door makeDoor(Room r1, Room r2){ return new DoorNeedingSpell(r1, r2, spell); }
+
+    Spell spell = new Spell();
 }

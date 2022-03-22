@@ -8,12 +8,13 @@ class Door extends MapSite {
         _room2 = r2;
     }
 
+    @Override
     public String toString() {
         return "Door #" + new Integer(_doorNr).toString();
     }
 
     private static int _doorCnt = 1;
-    private int _doorNr;
+    protected int _doorNr;
     private Room _room1;
     private Room _room2;
 }

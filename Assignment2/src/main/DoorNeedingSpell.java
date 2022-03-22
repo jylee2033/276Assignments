@@ -1,16 +1,9 @@
 package main;
 
 public class DoorNeedingSpell extends Door {
-    DoorNeedingSpell(Room r1, Room r2) {
+    DoorNeedingSpell(Room r1, Room r2, Spell s) {
         super(r1, r2);
-        _doorNr = _doorCnt++;
-        System.out.println("creating a DoorNeedingSpell #" + _doorNr + " between " + r1 + " and " + r2);
-        _room1 = r1;
-        _room2 = r2;
+        System.out.println("Door needs a spell : " + s.getSpell());
     }
 
-    private static int _doorCnt = 1;
-    private int _doorNr;
-    private Room _room1;
-    private Room _room2;
 }
